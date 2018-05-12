@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36890'
     url: http://www.gutenberg.org/2009/agents/36890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34228#The-Accomplished-Muskrat-TrapperA-Book-on-Trapping-for-Amateurs
 gutenberg_issued: '2010-11-07'
 gutenberg_type: Text
 identifiers:
