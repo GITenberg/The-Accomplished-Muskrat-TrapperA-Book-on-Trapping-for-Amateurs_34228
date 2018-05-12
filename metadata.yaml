@@ -1,0 +1,26 @@
+_repo: The-Accomplished-Muskrat-TrapperA-Book-on-Trapping-for-Amateurs_34228
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34228-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schmidt, Arno Erdman
+    alias: Schmidt, A. E. (Arno Erdman)
+    gutenberg_agent_id: '36890'
+    url: http://www.gutenberg.org/2009/agents/36890
+description: ''
+gutenberg_issued: '2010-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34228'
+  lccn: '22022892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Trapping'
+title: 'The Accomplished Muskrat Trapper: A Book on Trapping for Amateurs'
+url: http://www.gutenberg.org/ebooks/34228
